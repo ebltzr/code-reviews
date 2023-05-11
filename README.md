@@ -4,7 +4,6 @@
 
 The goal of this activity it to practice the code review process using [Github pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
-<iframe src="https://giphy.com/embed/wciKrVY3kdgA3UKY4W" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chubbiverse-chubbicorns-chubbicorn-chubbifrens-wciKrVY3kdgA3UKY4W">via GIPHY</a></p>
 
 ## Instructions
 
