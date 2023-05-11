@@ -4,7 +4,7 @@
 
 The goal of this activity it to practice the code review process using [Github pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
-(images/bongo-cat-bongo-cat-toy.gif)
+![](images/bongo-cat-bongo-cat-toy.gif)
 
 
 ## Instructions
